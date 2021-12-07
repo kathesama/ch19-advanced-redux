@@ -4,6 +4,7 @@
 <br>
 ![IntellijIdea](https://img.shields.io/badge/Made%20for-IntellijIdea-1f425f.svg?style=for-the-badge)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 <br>
 [![GitHub issues](https://img.shields.io/github/issues/kathesama/ch19-advanced-redux?style=plastic)](https://github.com/kathesama/ch19-advanced-redux/issues)
 [![GitHub forks](https://img.shields.io/github/forks/kathesama/ch19-advanced-redux?style=plastic)](https://github.com/kathesama/ch19-advanced-redux/network)
