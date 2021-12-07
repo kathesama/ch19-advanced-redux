@@ -19,7 +19,7 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "plugins": ["react", "react-hooks", "jsx-a11y"],
+  "plugins": ["prettier", "react", "react-hooks", "jsx-a11y"],
   "settings": {
     "react": {
       "version": "detect"
